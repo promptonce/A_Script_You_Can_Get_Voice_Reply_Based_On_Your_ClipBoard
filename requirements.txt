@@ -1,0 +1,3 @@
+pyperclip
+pyttsx3
+zhipuai
